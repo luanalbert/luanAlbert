@@ -46,3 +46,26 @@ Section - trabalhos
     border: solid 1px #062452;
     transition: all 0.5s;
 }
+.text-sobre{
+    font-size: 1rem;
+}
+#text-curso {
+    font-weight: 300;
+    font-size: 0.9rem;
+}
+/* --------------------------------
+Footer
+---------------------------------*/
+#footer-fluid{
+    background-color: #062452;
+    
+  
+}
+#footer-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    font-weight: 200;
+    color: #ffffff;
+}
