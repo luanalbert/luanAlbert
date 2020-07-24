@@ -14,77 +14,88 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.14.0/css/all.css"
       integrity="sha384-HzLeBuhoNPvSl5KYnjx0BT+WB0QEEqLprO+NBkkk5gbc67FTaL7XIGa2w1L0Xbgc" crossorigin="anonymous">
     <link rel="stylesheet" href="./assets/css/style.css">
+    <link rel="shortcut icon" href="./assets/image/barralogo.png" type="image/x-icon">
     <title> Luan Albert - Developer Web</title>
   </head>
-
 <body id="inicio">
   <header>
-    <div class="container-fluid" style="background-color:  #062452;">  <!-- menu inicio-->
-    <div class="container">
-      <nav class="navbar navbar-expand-lg navbar-dark" id="bg-navbar">
-        <a class="navbar-brand" href="#">
-          <img src="./assets/image/logo.png" alt="" style="width: 150px;">
-        </a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown"
-          aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Alterna navegação">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarNavDropdown">
-          <ul class="navbar-nav ml-auto">
-            <li class="nav-item">
-              <a class="nav-link" href="index.html" id="nav-item"> Inicio <span class="sr-only">(Página
-                  atual)</span></a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="sobre.html" id="nav-item"> Sobre </a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="trabalhos.html" id="nav-item"> Trabalhos </a>
-            </li>
-          </ul>
-        </div>
-      </nav> 
-    </div>
-   </div><!-- menu fim-->
+    <div class="container-fluid fixed-top" style="background-color:  #062452;">
+      <!-- menu inicio-->
+      <div class="container">
+        <nav class="navbar navbar-expand-lg navbar-dark" id="bg-navbar">
+          <a class="navbar-brand" href="index.html">
+            <img src="./assets/image/logo.png" alt="" style="width: 150px;">
+          </a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown"
+            aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Alterna navegação">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarNavDropdown">
+            <ul class="navbar-nav ml-auto">
+              <li class="nav-item">
+                <a class="nav-link" href="index.html" id="nav-item"> Inicio <span class="sr-only">(Página
+                    atual)</span></a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="sobre.html" id="nav-item"> Sobre </a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="trabalhos.html" id="nav-item"> Trabalhos </a>
+              </li>
+            </ul>
+          </div>
+        </nav>
+      </div>
+    </div><!-- menu fim-->
   </header>
-  <div class="container-fluid" >
+  <div class="container-fluid">
     <section class="container pt-5">
-    <div class="row">
-      <div class="col">
+      <div class="row mt-5">
+        <div class="col-sm">
+          <h2 class="text-center" id="text-inicio"></h2>
+          <p class="text-center"> Não perca tempo, conecte-se ao mundo!</p>
+          <img class="img-fluid mb-5" id="img-hello" src="./assets/image/www.png" alt="" srcset="">
+        </div>
+        <div class="col-sm text-center pb-3" id="container-contatos">
+          <p class="h2"> Luan Albert </p>
+          <p class="display-5"> Desenvolvedor Web </p>
+          <p class="display-5" style="margin-top: -13px; font-size: 0.6rem;"> ... em fase de Desenvolvimento </p>
+          <div class="col d-flex p-1 pt-5">
+            <a href="https://accounts.google.com/signin/v2/identifier?hl=pt-BR&continue=https%3A%2F%2Fwww.google.com%3Fhl%3Dpt-BR&flowName=GlifWebSignIn&flowEntry=AddSession"
+              target="_blank" class="link contatos"> <i class="fas fa-envelope pr-2 logo-contatos"></i>
+              contatoluanalbert@gmail.com</a>
+          </div>
+          <hr class="my-2">
+          <div class="col d-flex p-1">
+            <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5571983592706&text=%20Oi,%20cheguei%20aqui%20pelo%20seu%20Site!"
+              target="_blank" class="link contatos"><i class="fab fa-whatsapp pr-2 logo-contatos"></i> 71 98359-2706
+            </a>
+          </div>
+          <hr class="my-2">
+          <div class="col d-flex p-1">
+            <a href="https://www.linkedin.com/in/luan-albert/" target="_blank" class="link contatos"><i
+                class="fab fa-linkedin pr-2 logo-contatos"></i> LinkedIn </a>
+          </div>
+          <hr class="my-2">
+          <div class="col d-flex p-1">
+            <a href="https://github.com/luanalbert" target="_blank" class="link contatos"><i
+                class="fab fa-github pr-2 logo-contatos"></i> GitHub </a>
+          </div>
+          <hr class="my-2">
+          <div class="col d-flex p-1">
+            <a href="https://www.google.com.br/maps/place/R.+da+Grama,+Cama%C3%A7ari+-+BA/@-12.8359814,-38.2657824,20z/data=!4m5!3m4!1s0x7163f0c5ac1e37f:0xee519cf533b8e873!8m2!3d-12.8376096!4d-38.266843"
+              target="_blank" class="link contatos"><i class="fas fa-map-marker-alt pr-2 logo-contatos"></i> Vila de
+              Abrantes, Camaçari-BA </a>
+          </div>
+        </div>
       </div>
-      <div class="col-sm text-center">
-        <span class="badge badge-primary mb-3" style="font-weight: 200;"> Esse sou eu </span>
-        <p class="h2"> Luan Albert </p>
-        <p class="display-5"> Desenvolvedor Web </p>
-        <hr class="my-2">
-        <div class="col d-flex p-1" > 
-          <a href="" class="link contatos">  <i class="fas fa-envelope pr-2 logo-contatos"></i> contatoluanalbert@gmail.com</a>
-        </div>
-        <hr class="my-2">
-        <div class="col d-flex p-1" > 
-          <a href="" class="link contatos"><i class="fab fa-whatsapp pr-2 logo-contatos"></i> 71 98359-2706 </a>
-        </div>
-        <hr class="my-2">
-        <div class="col d-flex p-1" > 
-          <a href="" class="link contatos"><i class="fab fa-linkedin pr-2 logo-contatos"></i>  LinkedIn </a>
-        </div>
-        <hr class="my-2">
-        <div class="col d-flex p-1" > 
-          <a href="" class="link contatos"><i class="fab fa-github pr-2 logo-contatos"></i> GitHub </a>
-        </div>
-        <hr class="my-2">
-        <div class="col d-flex p-1" > 
-          <a href="" class="link contatos"><i class="fas fa-map-marker-alt pr-2 logo-contatos"></i> Vila de Abrantes, Camaçari-BA </a>
-        </div>
-      </div>
-    </div>
     </section>
   </div>
   <footer class="container-fluid mt-3" id="footer-fluid">
     <div class="container" id="footer-container">
-        &copy; Luan Albert - Developer Web - Todos os Direitos reservados
+      &copy; Luan Albert - Developer Web - Todos os Direitos reservados
     </div>
-</footer>
+  </footer>
 
 
 
@@ -92,8 +103,8 @@
 
 
 
+  <script src="./assets/js/index.js"></script>
 
-  
   <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
     integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
     crossorigin="anonymous"></script>
