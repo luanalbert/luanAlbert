@@ -58,7 +58,9 @@ Footer
 ---------------------------------*/
 #footer-fluid{
     background-color: #062452;
-    
+    height: 80px    ;
+    display: flex;
+    align-items: center;
   
 }
 #footer-container{
@@ -69,4 +71,15 @@ Footer
     height: 50px;
     font-weight: 200;
     color: #ffffff;
+}
+.link:hover{
+    text-decoration: none;
+    color: #062452;
+    transition: all 0.5s;
+}
+.contatos {
+    font-size: 1rem;
+}
+.logo-contatos{
+    font-size: 2rem;
 }
