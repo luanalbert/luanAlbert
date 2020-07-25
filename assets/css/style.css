@@ -8,12 +8,14 @@ body {
 /* --------------------------------
 Nav bar
 ---------------------------------*/
-#bg-navbar {
+#bg-navbar,
+#bg-nav-fluid {
     background-color: #062452;
     font-weight: 300;
     font-family: 'Oxanium', cursive;
 }
 #nav-item{
+    color: #ffffff;
     padding: 15px;
 }
 #nav-item:hover {
@@ -25,11 +27,9 @@ Nav bar
 /* --------------------------------
 Section - trabalhos
 ---------------------------------*/
-.border-image {
-    
-    
-    
-}  
+#logo-ferramenta {
+    font-size: 1.5rem;
+}
 #img-hello {
     border-radius: none;
     border: none;

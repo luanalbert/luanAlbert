@@ -12,7 +12,7 @@ function escrever(str, el) {
 escrever(texto, div);
 
 var div = document.getElementById('text-inicio');
-var texto = 'Hello Word!';
+var texto = 'Hello World!';
 
 function escrever(str, el) {
   var char = str.split('').reverse();
@@ -25,7 +25,7 @@ function escrever(str, el) {
 escrever(texto, div);
 
 var div = document.getElementById('sobre');
-var texto = 'Sobre mim!';
+var texto = 'Sobre';
 
 function escrever(str, el) {
   var char = str.split('').reverse();
