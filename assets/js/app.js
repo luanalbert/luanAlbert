@@ -38,5 +38,6 @@ function debounce (func, wait, immediate) {
 
     $(document).scroll(debounce(function () {
         animeScroll();
-    }, 0));// especificação em milissegundos 
+        console.log('teste')
+    }, 20));// especificação em milissegundos 
 }());
