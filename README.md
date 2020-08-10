@@ -1,7 +1,7 @@
 <h1 align="center">
   Hi there 👋, I'm Luan Albert
-  
-  <p>
+</h1>
+<p>
 
 Passionate about technology, programming student, good music lover, and good series.
 
@@ -9,8 +9,6 @@ I started in the programming area in 2018 ("it's true it's a short time"), but i
 
 In order to become a qualified FullStack developer, I make studies a priority in my life, and I always like to be involved in some project because I believe that practice is the best way to learn.
 </p>
-  
-</h1>
 
 - 🔭 I’m currently working on Home
 - 🌱 I’m currently learning JavaScript, NodeJS and SQLServer
