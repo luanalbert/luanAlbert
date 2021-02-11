@@ -13,7 +13,7 @@ In order to become a qualified FullStack developer, I make studies a priority in
 - 🔭 I’m currently working on Home
 - 🌱 I’m currently learning JavaScript, NodeJS and SQLServer
 - 🤔 I’m looking for help with projects that offer opportunity to beginners, so you can learn on the job.
-- 💬 Ask me about HTML, CSS, Bootstrap
+- 💬 Ask me about HTML, CSS, Bootstrap, JavaScript, NodeJs
 
 
 
