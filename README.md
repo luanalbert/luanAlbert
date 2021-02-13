@@ -10,10 +10,7 @@ I started in the programming area in 2018 ("it's true it's a short time"), but i
 In order to become a qualified FullStack developer, I make studies a priority in my life, and I always like to be involved in some project because I believe that practice is the best way to learn.
 </p>
 
-- 🔭 I’m currently working on Home
-- 🌱 I’m currently learning JavaScript, NodeJS and SQLServer
-- 🤔 I’m looking for help with projects that offer opportunity to beginners, so you can learn on the job.
-- 💬 Ask me about HTML, CSS, Bootstrap, JavaScript, NodeJs
+![luanalbert's github stats](https://github-readme-stats.vercel.app/api?username=gabrielgqa&show_icons=true&theme=vue-dark)
 
 
 
