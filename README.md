@@ -10,10 +10,22 @@ Comecei na área de programação em 2018 ("é verdade é pouco tempo"), mas nes
 Para me tornar um desenvolvedor FullStack qualificado, faço dos estudos uma prioridade na minha vida, e sempre gosto de estar envolvido em algum projeto porque acredito que praticar é a melhor forma de aprender.
 </p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luan-albert/)](https://www.linkedin.com/in/luan-albert/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contatoluanalbert@gmail.com)](mailto:contatoluanalbert@gmail.com)
+### 🛠 &nbsp;Tech Stack
 
+- 🌐 &nbsp;
+  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+## Status
 ![luanalbert's github stats](https://github-readme-stats.vercel.app/api?username=luanalbert&show_icons=true&theme=vue-dark) <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luanalbert&theme=vue-dark&layout=compact&exclude_lang=java+r" />
 
+##  🤝🏻 &nbsp;Contatos:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luan-albert/)](https://www.linkedin.com/in/luan-albert/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contatoluanalbert@gmail.com)](mailto:contatoluanalbert@gmail.com)
 
