@@ -14,10 +14,8 @@ Para me tornar um desenvolvedor FullStack qualificado, faço dos estudos uma pri
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contatoluanalbert@gmail.com)](mailto:contatoluanalbert@gmail.com)
 
 ![luanalbert's github stats](https://github-readme-stats.vercel.app/api?username=luanalbert&show_icons=true&theme=vue-dark)
-
 <p>
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luanalbert_icons=true&theme=dark" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luanalbert&theme=radical&layout=compact&exclude_lang=java+r" />
 </a>
 </p>
