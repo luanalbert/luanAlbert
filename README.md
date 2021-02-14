@@ -3,11 +3,11 @@
 </h1>
 <p>
 
-Passionate about technology, programming student, good music lover, and good series.
+Apaixonado por tecnologia, estudante de programação,amante de música e boas séries.
 
-I started in the programming area in 2018 ("it's true it's a short time"), but in that "short time" I learned a lot that until then I thought was impossible to learn, and now I run to improve this knowledge.
+Comecei na área de programação em 2018 ("é verdade é pouco tempo"), mas nesse "pouco tempo" aprendi muito o que até então achava impossível aprender, e agora corro para aprimorar esses conhecimentos.
 
-In order to become a qualified FullStack developer, I make studies a priority in my life, and I always like to be involved in some project because I believe that practice is the best way to learn.
+Para me tornar um desenvolvedor FullStack qualificado, faço dos estudos uma prioridade na minha vida, e sempre gosto de estar envolvido em algum projeto porque acredito que praticar é a melhor forma de aprender.
 </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luan-albert/)](https://www.linkedin.com/in/luan-albert/)
