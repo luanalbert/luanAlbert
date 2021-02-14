@@ -22,13 +22,13 @@ Para me tornar um desenvolvedor FullStack qualificado, faço dos estudos uma pri
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 ## Status
-<a>
- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luanalbert&show_icons=true&theme=vue-dark"/> 
- <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luanalbert&theme=vue-dark&layout=compact&exclude_lang=java+r" />
-</>
-<a href="https://github.com/AVS1508">
+<p>
+  <a href="https://github.com/luanalbert/luanAlbert/edit/master/README.md">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luanalbert&show_icons=true&theme=vue-dark"/> 
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luanalbert&theme=vue-dark&layout=compact&exclude_lang=java+r" />
+</a>
+</p>
  
-
 ##  🤝🏻 &nbsp;Contatos:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luan-albert/)](https://www.linkedin.com/in/luan-albert/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contatoluanalbert@gmail.com)](mailto:contatoluanalbert@gmail.com)
