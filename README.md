@@ -24,8 +24,8 @@ Para me tornar um desenvolvedor FullStack qualificado, faço dos estudos uma pri
 ## Status
 <a href="https://github-readme-stats.vercel.app/api?username=luanalbert&show_icons=true&theme=vue-dark">
   <p>
- <img height="170em" [luanalbert's github stats] src="https://github-readme-stats.vercel.app/api?username=luanalbert&show_icons=true&theme=vue-dark"/> 
- <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luanalbert&theme=vue-dark&layout=compact&exclude_lang=java+r" />
+ <img height="165em" [luanalbert's github stats] src="https://github-readme-stats.vercel.app/api?username=luanalbert&show_icons=true&theme=vue-dark"/> 
+ <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luanalbert&theme=vue-dark&layout=compact&exclude_lang=java+r" />
   </p>
 </a>
  
