@@ -22,8 +22,8 @@ Para me tornar um desenvolvedor FullStack qualificado, faço dos estudos uma pri
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 ## Status
-<a href="">
-  <p [luanalbert's github stats]>
+<a href="https://github-readme-stats.vercel.app/api?username=luanalbert&show_icons=true&theme=vue-dark">
+  <p>
  <img height="150em" [luanalbert's github stats] src="https://github-readme-stats.vercel.app/api?username=luanalbert&show_icons=true&theme=vue-dark"/> 
  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luanalbert&theme=vue-dark&layout=compact&exclude_lang=java+r" />
   </p>
