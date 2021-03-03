@@ -5,7 +5,7 @@
 
 Apaixonado por tecnologia, estudante de programação,amante de música e boas séries.
 
-Iniciei na área de programação em 2019 ("é verdade é pouco tempo"), mas nesse "pouco tempo" aprendi muito o que até então achava impossível aprender, e agora corro para aprimorar esses conhecimentos.
+Iniciei na área de programação em 2018 ("é verdade é pouco tempo"), mas nesse "pouco tempo" aprendi muito o que até então achava impossível aprender, e agora corro para aprimorar esses conhecimentos.
 
 Para me tornar um desenvolvedor FullStack qualificado, faço dos estudos uma prioridade na minha vida, e sempre gosto de estar envolvido em algum projeto porque acredito que praticar é a melhor forma de aprender.
 </p>
