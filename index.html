@@ -16,6 +16,7 @@
     <link rel="stylesheet" href="./assets/css/style.css">
     <link rel="shortcut icon" href="./assets/image/barralogo.png" type="image/x-icon">
     <title> Luan Albert - Developer Web</title>
+  
   </head>
 <body id="inicio">
   <header>
@@ -42,6 +43,12 @@
               <li class="nav-item">
                 <a class="nav-link" href="trabalhos.html" id="nav-item"> Trabalhos </a>
               </li>
+              <li class="nav-item">
+                <div class="toggle">
+                  <input id="switch" type="checkbox" name="theme">
+                  <label for="switch">Toggle</label>
+              </div>
+              </li>
             </ul>
           </div>
         </nav>
@@ -53,7 +60,7 @@
       <div class="row mt-5">
         <div class="col-sm">
           <h2 class="text-center" id="text-inicio"></h2>
-          <p class="text-center"> Não perca tempo, conecte-se ao mundo!</p>
+          <p class="text-center" id="second-title"> Não perca tempo, conecte-se ao mundo!</p>
           <img class="img-fluid mb-5 rounded mx-auto d-block" id="img-hello" style="max-width: 100%; height: auto;" src="./assets/image/www.png" alt="" srcset="">
         </div>
         <div class="col-lg text-center pb-3" id="container-contatos">
@@ -95,6 +102,9 @@
         </div>
       </div>
     </section>
+
+
+
   </div>
   <footer class="container-fluid mt-3" id="footer-fluid">
     <div class="container" id="footer-container">
@@ -109,6 +119,8 @@
 
 
   <script src="./assets/js/index.js"></script>
+  <script src="/assets/js/script.js"></script>
+  <script src="/assets/js/saveDakMode.js"></script>
 
   <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
     integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"

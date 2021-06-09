@@ -39,3 +39,5 @@ escrever(texto, div);
 
 
 
+
+
