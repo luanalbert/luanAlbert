@@ -16,7 +16,9 @@ const initialColors = {
     colorTextFooter: getStyle(html, "--color-text-footer"),
     colorTextNav: getStyle(html, "--color-text-nav"),
     colorTextLinkHover: getStyle(html,"--color-text-link-hover"),
-    colorTextSobre: getStyle(html, "--color-text-sobre")
+    colorTextSobre: getStyle(html, "--color-text-sobre"),
+    colorBtnBg: getStyle(html, "--color-btn-bg"),
+    colorBtnText: getStyle(html, "--color-btn-text")
 }
 
 const darkMode = {
@@ -28,7 +30,10 @@ const darkMode = {
     colorTextFooter: "#ffffff",
     colorTextNav: "#000000",
     colorTextLinkHover: "#07cdff",
-    colorTextSobre: "#ffffff"
+    colorTextSobre: "#ffffff",
+    colorBtnBg: "#ffffff",
+    colorBtnText:"#062452"
+
 }
 
 const transformKey = key => 
