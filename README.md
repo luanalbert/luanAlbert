@@ -12,26 +12,31 @@ Para me tornar um desenvolvedor FullStack qualificado, faço dos estudos uma pri
 
 ### 🛠 &nbsp;Conhecimentos
 
-- 🌐 &nbsp;
-  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
-## Status
+<p align="center">
+   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+   <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
+   
+   
+##
 <a href="https://github-readme-stats.vercel.app/api?username=luanalbert&show_icons=true&theme=vue-dark">
   <p align="center">
  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luanalbert&show_icons=true&theme=vue-dark"/> 
     <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luanAlbert&theme=vue-dark&layout=compact&exclude_lang=java+r" />
+     <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=luanAlbert&hide_border=false&theme=vue-dark&layout_icons=true"/>
    </p>
 </a>
  
 ##  🤝🏻 &nbsp;Contatos:
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white://www.linkedin.com/in/luan-albert/)](https://www.linkedin.com/in/luan-albert/)
-[![Instagran Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white:https://www.instagram.com/luanzinhoalbert/)](https://www.instagram.com/luanzinhoalbert/)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white:https://github.com/luanalbert)](https://github.com/luanalbert)
-
+[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](contatoluanalbert@gmail.com)
+[<img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/luanzinhoalbert/)
+[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/luan-albert/)
+ 
+<hr>
+<h2  align="center">💻 Veja meus repositórios ⬇️ </h2>
 
