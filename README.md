@@ -32,6 +32,8 @@ Para me tornar um desenvolvedor FullStack qualificado, faço dos estudos uma pri
    </p>
 </a>
  
+ ![](https://github.com/luanAlbert/luanAlbert/blob/output/github-contribution-grid-snake.svg) 
+ 
 ##  🤝🏻 &nbsp;Contatos:
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](contatoluanalbert@gmail.com)
 [<img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/luanzinhoalbert/)
