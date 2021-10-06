@@ -112,6 +112,7 @@ Footer
 ---------------------------------*/
 #footer-fluid{
     background-color: var(--bg-panel);
+    height: 80px;
     display: flex;
     align-items: center;
   
