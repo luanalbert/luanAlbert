@@ -21,15 +21,7 @@ Para me tornar um desenvolvedor FullStack qualificado, faço dos estudos uma pri
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
-   
-   
-##
-<a href="https://github.com/luanalbert">
-  <p align="center">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luanalbert&theme=vue-dark&layout=compact&exclude_lang=java+r" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luanalbert&show_icons=true&theme=vue-dark"/>
-  </p>
-</a>
+
  
 ##  🤝🏻 &nbsp;Contatos:
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](contatoluanalbert@gmail.com)
