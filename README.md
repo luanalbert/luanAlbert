@@ -34,7 +34,4 @@ Para me tornar um desenvolvedor FullStack qualificado, faço dos estudos uma pri
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](contatoluanalbert@gmail.com)
 [<img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/luanzinhoalbert/)
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/luan-albert/)
- 
-<hr>
-<h2  align="center">💻 Veja meus repositórios ⬇️ </h2>
 
