@@ -35,3 +35,5 @@ Para me tornar um desenvolvedor FullStack qualificado, faço dos estudos uma pri
 [<img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/luanzinhoalbert/)
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/luan-albert/)
 
+## <p align="center">Visits to my Profile :detective: <br><br><img alingn="center" src="https://profile-counter.glitch.me/luanAlbert/count.svg" /></p>
+
